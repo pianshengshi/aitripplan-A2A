@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/code/AiTripPlan/AiTripPlan-AgentScope/commons/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/AiTripPlan/AiTripPlan-AgentScope/commons/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/AiTripPlan/AiTripPlan-AgentScope/manager_agent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/AiTripPlan/AiTripPlan-AgentScope/manager_agent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/AiTripPlan/AiTripPlan-AgentScope/routeMaking_agent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/AiTripPlan/AiTripPlan-AgentScope/routeMaking_agent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/AiTripPlan/AiTripPlan-AgentScope/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/AiTripPlan/AiTripPlan-AgentScope/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/AiTripPlan/AiTripPlan-AgentScope/tripPlanner_agent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/AiTripPlan/AiTripPlan-AgentScope/tripPlanner_agent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/AiTripPlan/WorkFlow-Agent-SpringAi 1.1/Demo_SpringAi_1_1_0/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/AiTripPlan/WorkFlow-Agent-SpringAi 1.1/Demo_SpringAi_1_1_0/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/AiTripPlan/WorkFlow-Graph-SpringAi 1.1/Demo_WorkFlow_SpringAi_1_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/AiTripPlan/WorkFlow-Graph-SpringAi 1.1/Demo_WorkFlow_SpringAi_1_1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/Demo/Demo-A2A-SpringAi 1.1/Demo-A2A-SpringAi_1_1/a2a-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/Demo/Demo-A2A-SpringAi 1.1/Demo-A2A-SpringAi_1_1/a2a-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/Demo/Demo-A2A-SpringAi 1.1/Demo-A2A-SpringAi_1_1/a2a-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/Demo/Demo-A2A-SpringAi 1.1/Demo-A2A-SpringAi_1_1/a2a-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/Demo/Demo-A2A-SpringAi 1.1/Demo-A2A-SpringAi_1_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/Demo/Demo-A2A-SpringAi 1.1/Demo-A2A-SpringAi_1_1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/Demo/Demo-MCP-SpringAi 1.1/Demo-MCP-SpringAi_1.1/mcp-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/Demo/Demo-MCP-SpringAi 1.1/Demo-MCP-SpringAi_1.1/mcp-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/Demo/Demo-MCP-SpringAi 1.1/Demo-MCP-SpringAi_1.1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/Demo/Demo-MCP-SpringAi 1.1/Demo-MCP-SpringAi_1.1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/Demo/Demo-Skills-SpringAi 1.1.2/Demo_Skills_SpringAi_1_1_2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/Demo/Demo-Skills-SpringAi 1.1.2/Demo_Skills_SpringAi_1_1_2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/Jmanus_4.10.6/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/Jmanus_4.10.6/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

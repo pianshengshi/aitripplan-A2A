@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/code/Demo/Demo-A2A-SpringAi 1.1/Demo-A2A-SpringAi_1_1/pom.xml" />
+        <option value="$PROJECT_DIR$/code/Demo/Demo-MCP-SpringAi 1.1/Demo-MCP-SpringAi_1.1/pom.xml" />
+        <option value="$PROJECT_DIR$/code/Demo/Demo-Skills-SpringAi 1.1.2/Demo_Skills_SpringAi_1_1_2/pom.xml" />
+        <option value="$PROJECT_DIR$/code/AiTripPlan/AiTripPlan-AgentScope/pom.xml" />
+        <option value="$PROJECT_DIR$/code/AiTripPlan/WorkFlow-Agent-SpringAi 1.1/Demo_SpringAi_1_1_0/pom.xml" />
+        <option value="$PROJECT_DIR$/code/AiTripPlan/WorkFlow-Graph-SpringAi 1.1/Demo_WorkFlow_SpringAi_1_1/pom.xml" />
+        <option value="$PROJECT_DIR$/code/Jmanus_4.10.6/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="ms-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
