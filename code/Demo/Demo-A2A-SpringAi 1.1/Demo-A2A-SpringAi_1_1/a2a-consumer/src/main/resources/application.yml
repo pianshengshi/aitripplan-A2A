@@ -5,7 +5,7 @@ spring:
     name: imooc-springAi_1.1_a2a_consumer
   ai:
     dashscope:
-      api-key: 你的ApiKey
+      api-key: sk-48a26e74db414e59864152ee24285d3d
       chat:
         options:
           model: qwen-max

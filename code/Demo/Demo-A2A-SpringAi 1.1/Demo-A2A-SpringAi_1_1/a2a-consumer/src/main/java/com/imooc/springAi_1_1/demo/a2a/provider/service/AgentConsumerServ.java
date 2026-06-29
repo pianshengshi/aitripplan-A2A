@@ -22,7 +22,7 @@ public class AgentConsumerServ {
 
 
     @Autowired
-    @Qualifier("imoocAgentCardProvider")
+//    @Qualifier("imoocAgentCardProvider")
     private AgentCardProvider agentCardProvider;
 
     //发现远程的A2A Agent
